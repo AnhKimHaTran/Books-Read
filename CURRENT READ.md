@@ -3,7 +3,6 @@
 - Lonesome Dove by Larry McMurtry
 - 11/22/63 by Stephen King
 - The King in Yellow by Robert W. Chambers
-- One Flew Over the Cuckoo's Nest by Ken Kesey
 
 # TBR
 
@@ -17,7 +16,6 @@
 - Sandman Slim by Richard Kadrey
 - Fevre Dream by George R.R. Martin
 - The Killer Angels: A Novel of the Civil War by Michael Shaara
-- Louis L'Amour
 - The Big Sleep by Raymond Chandler
 - The Long Goodbye by Raymond Chandler
 - The Book of the New Sun by Gene Wolfe
@@ -27,11 +25,11 @@
 - [Centroeuropa by Vicente Mora](https://countercraft.substack.com/p/i-loved-this-novel-about-digging?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0ea190c-f552-40c0-b3c3-6e94eb504443_610x768.png&open=false)
 - Peace by Gene Wolfe
 - Deathless by Catherynne M. Valente
+- The Corpse War Of 1793: A Soldier's Account by Brandon Fisichella
 
 ### Non-Fiction
-- Last Call: The Rise and Fall of Prohibition by Daniel Okrent
-- Codes of the Underworld by Diego Gambetta
 - Donnie Brasco: My Undercover Life in the Mafia by Joseph D. Pistone
+- Permanent Record by Edward Snowden
 
 # Back Pile
 Books I've read halfway through and put on hiatus
