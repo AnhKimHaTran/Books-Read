@@ -27,6 +27,10 @@
 * Bullet in the Brain - Tobias Wolff <10/4>
 * An Inhabitant of Carcosa - Ambrose Bierce <11/4>
 
+### Plays
+
+* Medea - Euripedes <31/08>
+
 ---
 
 # 2025 [13]
