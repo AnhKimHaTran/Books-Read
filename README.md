@@ -24,12 +24,13 @@
 
 ### Short stories
 
-* Bullet in the Brain - Tobias Wolff <10/4>
-* An Inhabitant of Carcosa - Ambrose Bierce <11/4>
+* Bullet in the Brain - Tobias Wolff <10/04>
+* An Inhabitant of Carcosa - Ambrose Bierce <11/04>
 
 ### Plays
 
 * Medea - Euripedes <31/08>
+* An Enemy of the People - Henrik Ibsen <18/09>
 
 ---
 
