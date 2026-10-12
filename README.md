@@ -31,6 +31,7 @@
 
 * Medea - Euripedes <31/08>
 * An Enemy of the People - Henrik Ibsen <18/09>
+* The Resistable Rise of Arturo Ui - Bertolt Brecht
 
 ---
 
