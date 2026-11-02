@@ -33,6 +33,9 @@
 * An Enemy of the People - Henrik Ibsen <18/09>
 * The Resistable Rise of Arturo Ui - Bertolt Brecht <11/10>
 
+### Non-fiction
+* The History of Money: A Story of Humanity - David McWilliams <01/11>
+
 ---
 
 # 2025 [13]
