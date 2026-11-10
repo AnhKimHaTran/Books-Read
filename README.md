@@ -32,6 +32,7 @@
 * Medea - Euripedes <31/08>
 * An Enemy of the People - Henrik Ibsen <18/09>
 * The Resistable Rise of Arturo Ui - Bertolt Brecht <11/10>
+* The Two Faces of the Boss - Luis Valdez <11/08>
 
 ### Non-fiction
 * The History of Money: A Story of Humanity - David McWilliams <01/11>
