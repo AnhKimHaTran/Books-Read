@@ -54,7 +54,7 @@ Dates are written as <D/M>
 
 ### Joe Pitt Casebooks - Charlie Houston
 
-* My Dead Body
+* Already Dead
 * No Dominion
 * Half the Blood of Brooklyn <23/08>
 
