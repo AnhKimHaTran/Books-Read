@@ -31,9 +31,9 @@ Dates are written as <D/M>
 
 ### Plays
 
-* Medea - Euripedes <31/08>
+* Medea - Euripides <31/08>
 * An Enemy of the People - Henrik Ibsen <18/09>
-* The Resistable Rise of Arturo Ui - Bertolt Brecht <11/10>
+* The Resistible Rise of Arturo Ui - Bertolt Brecht <11/10>
 * The Two Faces of the Boss - Luis Valdez <11/08>
 
 ### Non-fiction
@@ -52,7 +52,7 @@ Dates are written as <D/M>
 * Prosper's Demon
 * Inside Man <12/09>
 
-### Joe Pitt Casebooks - Charlie Houston
+### Joe Pitt Casebooks - Charlie Huston
 
 * Already Dead
 * No Dominion
@@ -66,14 +66,14 @@ Dates are written as <D/M>
 
 * Of Mice And Men - John Steinbeck <11/02>
 * The Defence of Duffer's Drift - Ernest Swinton <13/03>
-* The Secret History - Donna Tart <14/10>
+* The Secret History - Donna Tartt <14/10>
 * Cold West - Clayton Snyder <24/11>
 
 ---
 
 # 2024 [20]
 
-### The Kingkiller Chronicles - Patrick Rothfuss
+### The Kingkiller Chronicle - Patrick Rothfuss
 
 * The Name of the Wind
 * The Wise Man's Fear
@@ -143,7 +143,7 @@ Dates are written as <D/M>
 
 ### Stormlight Archives - Brandon Sanderson
 
-* Rhythmn of War
+* Rhythm of War
 
 ### Dresden Files - Jim Butcher
 
