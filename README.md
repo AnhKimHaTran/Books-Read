@@ -1,3 +1,5 @@
+Dates are written as <D/M>
+
 # 2026
 
 ### The Dark Tower - Stephen King
@@ -36,6 +38,7 @@
 
 ### Non-fiction
 * The History of Money: A Story of Humanity - David McWilliams <01/11>
+* Vicksburg: Grant's Campaign That Broke the Confederacy - Donald L. Miller <13/11>
 
 ---
 
