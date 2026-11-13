@@ -26,7 +26,6 @@ Dates are written as <D/M>
 
 ### Short stories
 
-* Bullet in the Brain - Tobias Wolff <10/04>
 * An Inhabitant of Carcosa - Ambrose Bierce <11/04>
 
 ### Plays
