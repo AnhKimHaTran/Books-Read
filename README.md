@@ -42,7 +42,7 @@ Dates are written as <D/M>
 
 ---
 
-# 2025 [13]
+# 2025 [12]
 
 ### KJ Parker
 
@@ -54,7 +54,6 @@ Dates are written as <D/M>
 
 ### Joe Pitt Casebooks - Charlie Huston
 
-* Already Dead
 * No Dominion
 * Half the Blood of Brooklyn <23/08>
 
