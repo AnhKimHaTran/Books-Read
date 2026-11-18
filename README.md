@@ -1,4 +1,5 @@
 Dates are written as <D/M>
+(*) Books are read for class
 
 # 2026
 
@@ -30,13 +31,13 @@ Dates are written as <D/M>
 
 ### Plays
 
-* Medea - Euripides <31/08>
-* An Enemy of the People - Henrik Ibsen <18/09>
-* The Resistible Rise of Arturo Ui - Bertolt Brecht <11/10>
-* The Two Faces of the Boss - Luis Valdez <11/08>
+* (*) Medea - Euripides <31/08>
+* (*) An Enemy of the People - Henrik Ibsen <18/09>
+* (*) The Resistible Rise of Arturo Ui - Bertolt Brecht <11/10>
+* (*) The Two Faces of the Boss - Luis Valdez <11/08>
 
 ### Non-fiction
-* The History of Money: A Story of Humanity - David McWilliams <01/11>
+* (*) The History of Money: A Story of Humanity - David McWilliams <01/11>
 * Vicksburg: Grant's Campaign That Broke the Confederacy - Donald L. Miller <13/11>
 
 ---
@@ -63,9 +64,9 @@ Dates are written as <D/M>
 
 ### Standalones
 
-* Of Mice And Men - John Steinbeck <11/02>
+* (*) Of Mice And Men - John Steinbeck <11/02>
 * The Defence of Duffer's Drift - Ernest Swinton <13/03>
-* The Secret History - Donna Tartt <14/10>
+* (*) The Secret History - Donna Tartt <14/10>
 * Cold West - Clayton Snyder <24/11>
 
 ---
@@ -119,8 +120,8 @@ Dates are written as <D/M>
 
 ### Non-Fiction
 
-* When Breath Becomes Air - Paul Kalanithi <06/08>
-* Where Do We Go From Here: Chaos or Community? - Martin Luther King Jr.
+* (*) When Breath Becomes Air - Paul Kalanithi <06/08>
+* (*) Where Do We Go From Here: Chaos or Community? - Martin Luther King Jr.
 
 ---
 
@@ -160,7 +161,7 @@ Dates are written as <D/M>
 
 ### Lorraine Hansberry
 
-* A Raisin in the Sun
+* (*) A Raisin in the Sun
 
 ### Sherlock Holmes series - Sir Arthur Conan Doyle
 
